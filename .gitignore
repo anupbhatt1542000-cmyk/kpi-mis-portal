@@ -20,3 +20,6 @@ IMPLEMENTATION_NOTES.md
 RELEASE_NOTES_PHASE8-12.md
 server/PHASE7_SECURITY.md
 docker-compose.yml
+deploy/
+docker-compose.yml
+server/PHASE7_SECURITY.md
